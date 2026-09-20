@@ -1,4 +1,4 @@
-# 💊 Pharma Healthcare Analytics | SQL & Power BI
+# 💊 Pharma Intelligence Analytics | SQL & Power BI
 
 
 
